@@ -1,5 +1,5 @@
 ### Hello! 👋
-I'm an experienced deep-dive SDET/QAE drawing knowledge from sysadmin/devops, infosec, UX, and other fields. I'm good at solving complex and unusual problems, and especially enjoy work where I can interact with the tech stack in its entirety. Every project has benefited from my unique technical capabilities and breadth of experience.
+I'm an experienced full-stack SDET drawing knowledge from sysadmin/devops, infosec, UX, and other fields.
 
 - Hire me! 🏢👨‍💻:
   - [LinkedIn](https://www.linkedin.com/in/pkirkovsky/)
