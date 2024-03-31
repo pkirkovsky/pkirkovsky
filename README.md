@@ -3,5 +3,4 @@ I'm a versatile QA Engineer/SDET/automation engineer with 10+ years in the indus
 
   - [LinkedIn](https://www.linkedin.com/in/pkirkovsky/)
   - [Resume (PDF)](https://www.kirkovsky.com/resume)
-  - [Schedule time to chat (Calendly)](https://www.kirkovsky.com/meet)
   - [Personal website](https://www.kirkovsky.com/)
