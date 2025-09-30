@@ -1,9 +1,14 @@
 ## Pavel Kirkovsky
 
-Remote-capable QA and Automation Engineer with 10+ years delivering quality in e-commerce, healthcare, biotech,
-streaming media, and cloud services. Expert in leading QA teams, building scalable automation frameworks,
-integrating testing into CI/CD pipelines, and authoring technical assets including test charters, test plans, and internal
-documentation to standardize quality processes and knowledge sharing. 
+QA automation specialist building modern test frameworks with Playwright, Cypress, and AI-enhanced
+workflows. Currently implementing AI-assisted testing (Claude, OpenAI, Gemini, Mistral) and architecting scalable
+CI/CD-integrated test suites that significantly reduce regression time and deployment defects. Proven expertise
+leading QA teams and delivering enterprise-grade solutions across e-commerce, healthcare, autonomous vehicles,
+IoT, and cloud platforms.
+
+Core Competencies: Web & Mobile Test Automation, API Testing, CI/CD Integration, AI-Assisted Testing, Cloud
+Testing, Performance & Load Testing at Scale, Network Protocol Analysis & Reverse Engineering, Test Strategy &
+Leadership
 
 [LinkedIn](https://www.linkedin.com/in/pkirkovsky/)
 
